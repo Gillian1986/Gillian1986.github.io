@@ -41,8 +41,26 @@ img{
 	text-align: center;
 }
 
+#introtable td{
+	width: 25%;	
+}
+
 #docstable{
 	font-weight: bold;
+}
+
+#docstable td{
+	width: 25%;
+	border: 1px solid #ddd;
+}
+
+#tableheader td{
+	background-color: #ffa500;
+}
+
+#JaNeen {
+	font-family: Verdana;
+	text-align: center;
 }
 
 #Home{
@@ -51,7 +69,7 @@ img{
 	font-weight: bold;
 }
 
-p #Home{
+#Home p{
 	text-align: left;
 	font-family: Verdana;
 	font-weight: bold;
