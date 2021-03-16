@@ -1,0 +1,64 @@
+p{
+	font-family: Verdana;
+	text-align: center;
+}
+
+
+h1{
+	font-family: Verdana;
+	font-size: 120%;
+	color: black;
+	text-align: center;
+}
+
+h2{
+	font-family: Verdana;
+	font-size: 110%;
+	color: black;
+	text-align: center;
+}
+
+h3{
+	font-family: Verdana;
+	font-size: 105%;
+	color: black;
+	text-align: center;
+}
+
+img{
+	box-shadow: 10px 10px 5px grey;
+}
+
+/* # = id, . = class */
+
+#hoofdtitel{
+	font-size: 250%;
+	border-bottom-style: solid;
+}
+
+#introtable{
+	font-weight: bold;
+	text-align: center;
+}
+
+#docstable{
+	font-weight: bold;
+}
+
+#Home{
+	text-align: left;
+	font-family: Verdana;
+	font-weight: bold;
+}
+
+p #Home{
+	text-align: left;
+	font-family: Verdana;
+	font-weight: bold;
+}
+
+.centerTable{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
